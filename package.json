@@ -1,6 +1,7 @@
 {
   "name": "jquery-tiny-pubsub",
   "version": "0.7.0",
+  "main": "dist/ba-tiny-pubsub.js",
   "engines": {
     "node": ">= 0.8.0"
   },
